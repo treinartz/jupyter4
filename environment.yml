@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - cairo
+  - cairosvg
+  - jedi
+  - jupyterlab
+  - line_profiler
+  - matplotlib
+  - pandas
+  - pip
+  - pip:
+    - py5[jupyter]
